@@ -1,7 +1,7 @@
 ### Data-structure
 
 
-## 2022 Data Structure class back-up
+2022 Data Structure class back-up
 
 
-## Language used: Python
+Language used: Python
